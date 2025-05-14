@@ -1,39 +1,49 @@
-# Bitcoin CTO | BTC
+# Bitcoin CTO | $BTCSOLCTO
 
-**Official GitHub Repository for the Bitcoin CTO Ecosystem**  
-Website: [https://btcsolcto.com](https://btcsolcto.com)
+**Power of Bitcoin. Speed of Solana.**  
+Official Token + NFT Ecosystem on Solana.
 
 ---
 
 ## Overview
 
-Bitcoin CTO | BTC is a fully community-driven decentralized project combining a native token (BTC) on Solana with collectible NFTs called **Chainlords**. This repo contains contracts, metadata, and documentation for transparency and collaboration.
+Bitcoin CTO is a meme-powered decentralized project on the Solana blockchain. We feature:
+
+- $BTCSOLCTO token (Solana)
+- Chainlords NFT Collection (ERC-721)
+- 100% Community Driven
+
+Website: [https://btcsolcto.com](https://btcsolcto.com)  
+Telegram: [https://t.me/Bitcoinbtcsolcto](https://t.me/Bitcoinbtcsolcto)  
+X (Twitter): [https://x.com/btcsolcto](https://x.com/btcsolcto)
 
 ---
 
-## Features
+## Token Info
 
-- Token Ticker: **BTC**
-- Chain: **Solana**
-- NFT Collection: **Chainlords (ERC-721)**
-- Website: [btcsolcto.com](https://btcsolcto.com)
-- NFT Vault: [Chainlords Collection](https://btcsolcto.com/official-chainlords-vault)
+- Token Name: **Bitcoin CTO**
+- Ticker: **$BTCSOLCTO**
+- Contract: `E1SRZt1qm7rFGNPVHixNyYzTt7Ha44uyU6n7tFdEpump`
 
 ---
 
-## Smart Contracts
+## NFT Info
 
-- `BTCSOLCTO.sol` – Token contract  
-- `ChainlordsUR.sol` – NFT contract with royalty, airdrop, and public mint
-
----
-
-## Community
-
-- Telegram: [https://t.me/Bitcoinbtcsolcto](https://t.me/Bitcoinbtcsolcto)  
-- X (Twitter): [https://x.com/btcsolcto](https://x.com/btcsolcto)  
-- Email: [support@btcsolcto.com](mailto:support@btcsolcto.com)
+- Collection: **Chainlords**
+- Type: ERC-721
+- Tiers: Ultra Rare (UR), Epic, Legendary
+- Minting: Soon via official site
 
 ---
 
-© 2025 Bitcoin CTO. All rights reserved.
+## How to Contribute
+
+1. Fork this repository
+2. Make changes
+3. Submit a pull request
+
+---
+
+## License
+
+MIT License. See [LICENSE](./LICENSE) for full details.
