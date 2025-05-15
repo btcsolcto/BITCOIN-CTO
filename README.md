@@ -1,5 +1,7 @@
 # Bitcoin CTO | $BTCSOLCTO
-
+![License](https://img.shields.io/github/license/btcsolcto/BITCOIN-CTO)
+![Repo Size](https://img.shields.io/github/repo-size/btcsolcto/BITCOIN-CTO)
+![Last Commit](https://img.shields.io/github/last-commit/btcsolcto/BITCOIN-CTO)
 **Power of Bitcoin. Speed of Solana.**  
 Official Token + NFT Ecosystem on Solana.
 
