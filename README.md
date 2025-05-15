@@ -47,3 +47,10 @@ X (Twitter): [https://x.com/btcsolcto](https://x.com/btcsolcto)
 ## License
 
 MIT License. See [LICENSE](./LICENSE) for full details.
+## Recent Update – May 15, 2025
+
+Uploaded the following smart contracts into the `/contracts` folder:
+- `ChainlordsUR.sol`
+- `ChainlordsUR_presale.sol`
+
+This marks the inclusion of the Chainlords NFT logic into the repo.
