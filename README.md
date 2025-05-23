@@ -15,7 +15,7 @@ Bitcoin CTO is a meme-powered decentralized project on the Solana blockchain. We
 - Chainlords NFT Collection (ERC-721)
 - 100% Community Driven
 
-## Buy $BTCSOLCTO
+## Buy BITCOIN CTO|$BTCSOLCTO
 
 Experience the power of Bitcoin, fueled by the speed of Solana.
 
