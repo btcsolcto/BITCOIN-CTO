@@ -33,7 +33,7 @@ Experience the power of Bitcoin, fueled by the speed of Solana.
 ## Token Info
 
 - Token Name: **Bitcoin CTO**
-- Ticker: **$BTCSOLCTO**
+- Ticker: **BTC**
 - Contract: `E1SRZt1qm7rFGNPVHixNyYzTt7Ha44uyU6n7tFdEpump`
 
 ---
